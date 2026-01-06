@@ -1,0 +1,207 @@
+.logo {
+    float: left;
+    margin-right: 20px;
+    padding-bottom: 15px;
+    width: 120px;
+}
+
+.about {
+    .post-title {
+        padding-top: 20px;
+    }
+    .post-description {
+        font-size: 20px;
+    }
+}
+
+// Legacy styles
+.instructors {
+    padding: 0 0 0 1%;
+}
+
+%instructor-profile {
+    display: block;
+    float: left;
+    height: 210px;
+
+    @media screen and (min-width: 676px) {
+        height: 130px;
+    }
+
+    img {
+        border-radius: 50%;
+        float: left;
+        object-fit: cover;
+        height: 100px;
+        width: 100px;
+        margin-right: 10px;
+    }
+
+    ul.instructor-info {
+        display: block;
+        float: left;
+        list-style-type: none;
+        padding-left: 0;
+        width: 65%;
+        width: -webkit-calc(100% - 130px);
+        width: calc(100% - 130px);
+        min-width: 210px;
+
+        a {
+            color: $theme-color;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        span {
+            font-weight: 400;
+        }
+    }
+}
+.instructor-profile-two-col {
+    @extend %instructor-profile;
+    width: 50%;
+}
+.instructor-profile-three-col {
+    @extend %instructor-profile;
+    width: 33%;
+}
+
+// New staff section styles
+.staff-container {
+    padding: 0;
+    width: 100%;
+}
+
+.staff-section {
+    margin-bottom: 2.5rem;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.staff-section-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: $theme-color;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid lighten($theme-color, 40%);
+}
+
+.staff-grid {
+    display: flex !important;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 1.5rem;
+    width: 100%;
+
+    &::after {
+        content: none;
+    }
+}
+
+.staff-profile {
+    display: flex;
+    align-items: center;
+    flex: 0 0 calc(50% - 0.75rem);
+    max-width: calc(50% - 0.75rem);
+    min-height: 120px;
+    background: #fafafa;
+    border-radius: 10px;
+    padding: 1rem;
+    box-sizing: border-box;
+    float: none !important;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        transform: translateY(-2px);
+    }
+
+    @media screen and (max-width: 768px) {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    img {
+        border-radius: 50%;
+        object-fit: cover;
+        height: 80px;
+        width: 80px;
+        flex-shrink: 0;
+        border: 3px solid #fff;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .staff-info {
+        margin-left: 1rem;
+        flex: 1;
+        min-width: 0;
+
+        h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.1rem;
+            font-weight: 600;
+
+            a {
+                color: $grey-color-dark;
+                text-decoration: none;
+
+                &:hover {
+                    color: $theme-color;
+                }
+            }
+        }
+
+        p {
+            margin: 0.35rem 0;
+            font-size: 0.9rem;
+            color: $grey-color;
+
+            i {
+                width: 18px;
+                color: $theme-color;
+                margin-right: 0.4rem;
+            }
+
+            a {
+                color: $grey-color;
+                text-decoration: none;
+
+                &:hover {
+                    color: $theme-color;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
+
+.news {
+    border-top: 1px solid $grey-color-light;
+    margin-top: 30px;
+    padding-top: 20px;
+
+    h2 {
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+
+        .date { width: 19%; }
+        .announcement { width: 81%; }
+
+        tr { text-align: left; }
+        td {
+            padding: 6px 0;
+            vertical-align: top;
+            border: none;
+        }
+    }
+}

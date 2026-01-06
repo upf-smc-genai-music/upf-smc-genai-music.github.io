@@ -1,0 +1,66 @@
+<div class="staff-container">
+  {% if site.data.staff.Instructors.size > 0 %}
+  <section class="staff-section">
+    <h2 class="staff-section-title">Instructors</h2>
+    <div class="staff-grid">
+      {% for instructor in site.data.staff.Instructors %}
+      <div class="staff-profile">
+        <a href="{{ instructor.url }}" target="_blank">
+          <img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" alt="{{ instructor.name }}" />
+        </a>
+        <div class="staff-info">
+          <h3><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></h3>
+          <p><i class="fas fa-envelope"></i> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></p>
+          <p><i class="fas fa-clock"></i> {{ instructor.office-hours }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if site.data.staff.EducationAssociates.size > 0 %}
+  <section class="staff-section">
+    <h2 class="staff-section-title">Education Associates</h2>
+    <div class="staff-grid">
+      {% for instructor in site.data.staff.EducationAssociates %}
+      <div class="staff-profile">
+        {% if instructor.image %}
+        <a href="{{ instructor.url }}" target="_blank">
+          <img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" alt="{{ instructor.name }}" />
+        </a>
+        {% endif %}
+        <div class="staff-info">
+          <h3><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></h3>
+          <p><i class="fas fa-envelope"></i> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></p>
+          <p><i class="fas fa-clock"></i> {{ instructor.office-hours }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if site.data.staff.TAs.size > 0 %}
+  <section class="staff-section">
+    <h2 class="staff-section-title">Teaching Assistants</h2>
+    <div class="staff-grid">
+      {% for ta in site.data.staff.TAs %}
+      <div class="staff-profile">
+        {% if ta.image %}
+        <a href="{{ ta.url }}" target="_blank">
+          <img src="{{ ta.image | prepend: '/assets/img/' | relative_url }}" alt="{{ ta.name }}" />
+        </a>
+        {% endif %}
+        <div class="staff-info">
+          <h3><a href="{{ ta.url }}" target="_blank">{{ ta.name }}</a></h3>
+          <p><i class="fas fa-envelope"></i> <a href="mailto:{{ ta.email | encode_email }}" target="_blank">{{ ta.email }}</a></p>
+          <p><i class="fas fa-clock"></i> {{ ta.office-hours }}</p>
+          {% if ta.location %}<p><i class="fas fa-map-marker-alt"></i> {{ ta.location }}</p>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</div>
