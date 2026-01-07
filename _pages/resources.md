@@ -18,26 +18,15 @@ title: Resources
 * The Sound of AI’s *Generative Music AI Course*:  
   * [Video lectures (theory \+ implementations)](https://www.youtube.com/watch?v=NpJWprrqlFw&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D)  
   * [Code \+ slides](https://github.com/musikalkemist/generativemusicaicourse/tree/main)  
-* Theory behind RNNs/LSTMs as covered in the following videos of the *Deep Learning (for Audio) with Python*:  
-  * [Recurrent Neural Networks Explained Easily](https://www.youtube.com/watch?v=DY82Goknf0s)  
-  * [Long Short Term Memory (LSTM) Networks Explained Easily](https://www.youtube.com/watch?v=eCvz-kB4yko)  
-* The Sound of AI’s *Generating Melodies with LSTM Nets Course*:  
-  * [Video lectures (theory \+ implementation)](https://www.youtube.com/watch?v=FLr0r-QhqH0&list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz)  
-  * [Code \+ slides](https://github.com/musikalkemist/generating-melodies-with-rnn-lstm/tree/master)
 
 #### Generative Music AI Papers
 
 * [GenJam: A genetic algorithm for generating jazz solos](https://www.researchgate.net/publication/2342018_GenJam_A_Genetic_Algorithm_for_Generating_Jazz_Solos)  
-* [The Generative Electronic Dance Music Algorithmic System (GEDMAS)](https://www.academia.edu/101959323/The_Generative_Electronic_Dance_Music_Algorithmic_System_GEDMAS_)  
-* [Liquiprism: Generating Polyrhythms With Cellular Automata](http://www.icad.org/websiteV2.0/Conferences/ICAD2002/proceedings/36_AlanDorin.pdf)  
-* Automatic Stylistic Composition of Bach Chorales with Deep LSTM (aka BachBot) \[[presentation](https://www.youtube.com/watch?v=yu3DZuxxV7c)\] \[[paper](https://archives.ismir.net/ismir2017/paper/000156.pdf)\]  
-* Museformer: Transformer with Fine- and Coarse-Grained Attention for Music Generation \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/092c2d45005ea2db40fc24c470663416-Paper-Conference.pdf)\]\[[website](https://ai-muzic.github.io/museformer/)\]
-* Music Transformer: Generating Music with Long-Term Structure \[[blog](https://magenta.tensorflow.org/music-transformer)\] \[[paper](https://arxiv.org/pdf/1809.04281)\]
+* Music Transformer: Generating Music with Long-Term Structure [[blog](https://magenta.tensorflow.org/music-transformer)] [[paper](https://arxiv.org/pdf/1809.04281)]
+* Museformer: Transformer with Fine- and Coarse-Grained Attention for Music Generation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/092c2d45005ea2db40fc24c470663416-Paper-Conference.pdf)][[website](https://ai-muzic.github.io/museformer/)]
+* Anticipatory Music Transformer: A Controllable Infilling Model for Music [[blog](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html?idx=14)][[paper](https://arxiv.org/pdf/2306.08620)]
+* MuPT: Symbolic Music Generative Pre-trained Transformer [[blog](https://map-mupt.github.io/)][[paper](https://arxiv.org/abs/2404.06393)]
 
-#### Symbolic Music Representation Formats
-
-* \[TODO\] Course Doc and implementation for MIDI and abc notation   
-* Basic MIDI tokenizations such as [MIDI-Like](https://miditok.readthedocs.io/en/latest/tokenizations.html#midi-like) from MIDITok
 
 ### Optional (but suggested, for real\!)
 

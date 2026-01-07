@@ -13,12 +13,9 @@ title: Lectures
 
 ### Class 1: Course Introduction
 
-When: January 8th at 17:00-18:00h (online).
+**When**: January 12th 2026, 14:00–17:00 Room 52.329
 
-What: 
-
-* Introduction to the course, its structure, philosophy, and evaluation.  
-* Discussion about the history of generative music, ethical aspects, music representation, and generative techniques.
+**What**: Introduction to the course, its structure, philosophy, and evaluation.
 
 Before taking this class, students are expected to have watched the following videos from The Sound of AI’s *Generative Music AI Course*:
 
@@ -30,67 +27,47 @@ Before taking this class, students are expected to have watched the following vi
 6. [Generative Techniques](https://www.youtube.com/watch?v=W-_eWSrQ_vU&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=7)  
 7. [Limitations and Future Vision](https://www.youtube.com/watch?v=viR9q61wV4Q&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=8)
 
-### Class 2: Genetic Algorithms
+### Class 2: End-to-End Generative Music Project 
+**When**: January 12th 2026, 15:00–16:30 Room 52.329
 
-When: January 13th at 16:00-17:10h (in presence).
+**What**: 
+* Steps to run a generative music project in a real-world setting
+* Types of symbolic music data
+* Real-world challenges, tips and tricks
 
-What: 
+### Class 3: Evaluation
+**When**: January 13th 2026, 10:30–11:30 Room 52.101
 
-* Genetic algorithms for music generation.  
-* Real-world experience / challenges implementing this technique.  
-* Discuss GenJam system.  
-* Exercises and practical challenges.
+**What**: 
+* Objective evaluation metrics
+* Subjective evaluation metrics
+* Expert-based evaluation metrics
+* Market-driven evaluation metrics
+* Real-world problems, and possible solutions
 
-Before taking this class, students are expected to have watched the following videos and coded along the code walkthrough from The Sound of AI’s *Generative Music AI Course:*
+### Class 4: Genetic Algorithms
+**When**: January 13th 2026, 11:30–13:00 Room 52.101
 
-1. Genetic Algorithms \[[video](https://www.youtube.com/watch?v=CAVy7OZ87mE&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=15)\] \[[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/15.%20Genetic%20algorithms/Slides/15.%20Genetic%20algorithms.pdf)\]  
-2. Melody Harmonization with Genetic Algorithms \[[video](https://www.youtube.com/watch?v=AmtLrd-cYSY&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=16)\] \[[code](https://github.com/musikalkemist/generativemusicaicourse/blob/main/16.%20Melody%20harmonization%20with%20genetic%20algorithms/Code/geneticmelodyharmonizer.py)\]
+**What**: 
+* Genetic algorithms for music generation
+* Real-world experience / challenges implementing this technique
+* GenJam
+* Exercises and practical challenges
 
-### Class 3: Markov Chains
-
-When: January 13th at 17:20-18:30h (in presence).
-
-What: 
-
-* Markov chains models for music generation.  
-* Real-world experience / challenges implementing this technique.  
-* Discuss GEDMAS system.  
-* Exercises and practical challenges.
-
-Before taking this class, students are expected to have watched the following videos and coded along the code walkthrough from The Sound of AI’s *Generative Music AI Course:*
-
-1. Markov Chains \[[video](https://www.youtube.com/watch?v=gn-_ocUaGYo&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=11)\] \[[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/11.%20Markov%20chains/Slides/11.%20Markov%20chains.pdf)\]  
-2. Melody Generation with Markov Chains \[[video](https://www.youtube.com/watch?v=V7OPB6zmSdM&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=12)\] \[[code](https://github.com/musikalkemist/generativemusicaicourse/blob/main/12.%20Melody%20generation%20with%20Markov%20chains/Code/markovchain.py)\]
-
-### Class 4: RNN/LSTMs
-
-When: January 14th at 16:00-18:30h (in presence).
-
-What: 
-
-* RNN/LSTMs for music generation.  
-* Real-world experience / challenges implementing this technique.  
-* Discuss BachBot system.  
-* Exercises and practical challenges.
-
-Before taking this class, students are expected to have watched the following videos and coded along the code walkthroughs from The Sound of AI YouTube channel*:*
-
-1. Recurrent Neural Networks Explained Easily \[[video](https://www.youtube.com/watch?v=DY82Goknf0s)\] \[[slides](https://github.com/musikalkemist/DeepLearningForAudioWithPython/tree/master/17-%20Recurrent%20Neural%20Networks%20explained%20easily/slides)\]  
-2. Long Short Term Memory (LSTM) Networks Explained Easily \[[video](https://www.youtube.com/watch?v=eCvz-kB4yko)\] \[[slides](https://github.com/musikalkemist/DeepLearningForAudioWithPython/tree/master/18-%20LSTM%20networks%20explained%20easily/slides)\]  
-3. *Generating Melodies with LSTM Nets Course*:  
-   1. [Video lectures (theory \+ implementation)](https://www.youtube.com/watch?v=FLr0r-QhqH0&list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz)  
-   2. [Code \+ slides](https://github.com/musikalkemist/generating-melodies-with-rnn-lstm/tree/master)
+Before taking this class, students are expected to have watched the following videos and coded along the code walkthrough from *The Sound of AI’s Generative Music AI Course*:
+1. Genetic Algorithms [[video](https://www.youtube.com/watch?v=CAVy7OZ87mE&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=15)] [[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/15.%20Genetic%20algorithms/Slides/15.%20Genetic%20algorithms.pdf)]
+2. Melody Harmonization with Genetic Algorithms [[video](https://www.youtube.com/watch?v=AmtLrd-cYSY&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=16)] [[code](https://github.com/musikalkemist/generativemusicaicourse/blob/main/16.%20Melody%20harmonization%20with%20genetic%20algorithms/Code/geneticmelodyharmonizer.py)]
 
 ### Class 5: Transformers
 
-When: January 15th at 16:00-18:30h (in presence).
+**When**: January 26th 2026, 14:00–16:30 Room 52.329
 
-What: 
+**What**: 
 
 * Transformers for music generation.  
-* Real-world experience / challenges implementing this technique.  
-* Focus on Music Transformer.  
-* Exercises and practical challenges.
+* Flipped class: Group interview activity 
+* Real-world experience / challenges implementing this technique
+
 
 Before taking this class, students are expected to have watched the following videos and coded along the code walkthrough from The Sound of AI’s *Generative Music AI Course:*
 
@@ -98,61 +75,78 @@ Before taking this class, students are expected to have watched the following vi
 2. Transformers Explained Easily: Part 2 \[[video](https://www.youtube.com/watch?v=ctbvMnbylsA&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=18)\] \[[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/18.%20Transformers%20-%20Part%202/Slides/18.%20Transformers%20Part%202.pdf)\]  
 3. Melody Generation with Transformers \[[video](https://www.youtube.com/watch?v=j4LABY2d7k4&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=19)\] \[[code](https://github.com/musikalkemist/generativemusicaicourse/tree/main/19.%20Melody%20generation%20with%20transformers/Code)\]
 
-### Class 6: Assignments Review
+### Class 6: Transformer Tokenizers
+**When**: January 27th 2026, 10:30–11:30 Room 54.004
 
-When: January 27th at 16:00-18:30h (in presence).
+**What**: 
+* Tokenizers for MIDI / symbolic representations
+* MidTok
 
-What: 
 
-* Discuss four code assignments.  
-* Check solutions together.
+### Class 7:  Advanced Transformer Architectures
+**When**: January 27th 2026, 11:30–13:00 Room 54.004
 
-### Class 7: Paper Implementation
+**What**: 
+* SOTA transformer systems for symbolic music generation
+* Discuss papers, and debate systems’ outputs
+* MuseFormer
+* Anticipatory Music Transformer
+* MuPT
 
-When: January 28th at 16:30-18:30h (in presence).
+Before taking this class, students are expected to have watched the following papers:
+* Museformer: Transformer with Fine- and Coarse-Grained Attention for Music Generation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/092c2d45005ea2db40fc24c470663416-Paper-Conference.pdf)][[website](https://ai-muzic.github.io/museformer/)]
+* Anticipatory Music Transformer: A Controllable Infilling Model for Music [[blog](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html?idx=14#prompted-example)][[paper](https://arxiv.org/pdf/2306.08620)]
+* MuPT: Symbolic Music Generative Pre-trained Transformer [[blog](https://map-mupt.github.io/)][[paper](https://arxiv.org/abs/2404.06393)]
 
-What: 
 
-* How to implement a generative AI music paper.  
-* Check paper implementation together. 
+### Class 8: Code Assignments 
 
-### Class 8: Creative Reverse Engineering \+ Wrap-up
+**When**: February 28th 2026, 14:00-16:00
 
-When: January 29th at 9:30-11:30h (in presence).
+**What**: 
+* Present 2x code assignments
+* Evaluate results together + get feedback
 
-What: 
+### Class 9: Career Advice 
+**When**: February 16th 2026, 16:00–16:30 Room 52.329
 
-* Reverse engineer the output of a generative music system.  
-* During the class, in groups of three people, design a generative music system that can come up with the presented music output.  
-* Reflect on Part 1 of the course, ask questions, tips to get a job as a gen AI music engineer. 
+**What**: 
+* How to get a career in gen music 
+* Q&A
 
-### Hands-on Demo: Transformers Hack Session
+### Class 10: Final Project Presentations
+**When**: February 17th 2026, 10:30–13:00 Room 52.105
 
-When: TBD for 1:30h (in presence).
+**What**: 
+* Present final project
+* Get feedback
 
-What: 
+### Extra Tutorial Class: Hugging Face Transformers
+This class is taught by Fernando and Andreas.
 
-* Inference \+ Fine Tuning with Hugging Face Transformers.  
-* Using pre-trained symbolic models  (no details, only what they do, as a user rather than a "researcher").  
-* On one of the cloud providers \- AWS, Azure, GCP.
+**When**: January 29th 2026, 14:00–16:30 Room 52.329
+
+**What**: 
+* Inference + Fine Tuning with Hugging Face Transformers
+* Using pre-trained symbolic models  
 
 Before taking this class, students are expected to have installed the following libraries and coded along the code walkthrough:
+* Hugging Face Transformers [[blog](https://huggingface.co/docs/transformers/en/quicktour)]
+* Hugging Face MidiGPT2 [[blog](https://huggingface.co/xingjianll/midi-gpt2)]
+* Hugging Face PEFT (Parameter-Efficient Fine-Tuning) [[blog](https://huggingface.co/docs/peft/quicktour)]
+* Hugging Face LoRA [[blog](https://huggingface.co/docs/peft/package_reference/lora)]
 
-1. Set up an account on cloud computing platforms \[AWS/GCP/Azure (TBD)\]  
-2. Hugging Face Transformers \[[blog](https://huggingface.co/docs/transformers/en/quicktour)\]  
-3. Hugging Face MuPT \[[blog](https://huggingface.co/m-a-p/MuPT-v1-8192-190M)\]
+---
 
-## Part 2
+## Part 2 (WIP)
 
 Slides [[CMC_0_Intro](https://drive.google.com/file/d/17SqQoT6LKyf9Xq2g41B6IZJDZdC51uW3/view?usp=drive_link)]
 
 ### Week 1: Audio modeling Introduction; Sound Model Factory
 
-When:
-February 3 at 16:00-17:30h.
-February 5 at 17:00-18:00h.
+**When:** TBD
 
-What:
+**What:**
 
 * Introduction to the second part of the course on generative audio.
 * Discussion about the main ideas, audio representations, and architectures commonly used.
@@ -169,11 +163,9 @@ Slides [[CMC_1_DataDrivenSoundModeling.pdf](https://drive.google.com/file/d/1DN-
 
 ### Week 2: Representation & Codecs
 
-When:
-February 10 at 16:00-17:30h.
-February 12 at 17:00-18:00h.
+**When:** TBD
 
-What:
+**What:**
 
 * From Audio representations to Codecs
 
@@ -198,11 +190,9 @@ Slides[[CMC_2b_Representation&SoundModeling.pdf](https://drive.google.com/file/d
 
 ### Week 3: DDSP and Rave
 
-When:
-February 17 at 16:00-17:30h.
-February 19 at 17:00-18:00h.
+**When:** TBD
 
-What:
+**What:**
 
 * Fast learning, small datasets, real time inference, differentiation
 
@@ -222,11 +212,9 @@ Slides[[CMC3_DDSP.RAVE.pdf](https://drive.google.com/file/d/1X4hO8hkjzGpIjpPT0_J
 
 ### Week 4: Transformers for Audio
 
-When:
-February 24 at 16:00-17:30h.
-February 26 at 17:00-18:00h.
+**When:**: TBD
 
-What:
+**What:**
 * Core transformer architecture, considerations for audio
 * Synthformer - detailed talk through of (my own) Synthformer for interactive audio generation. 
 
@@ -249,11 +237,9 @@ Github code for [[Synthformer](https://github.com/lonce/DACSynthformer)]
 
 ### Week 5: Text2Audio & Evaluation for generative models
 
-When:
-March 3 at 16:00-17:30h.
-March 5 at 17:00-18:00h.
+**When:** TBD
 
-What:
+**What:**
 
 * Overview of Diffusion and Transformer models for text-to-audio - CLAP
 * Objective and subjective approaches to evaluating generative audio  
