@@ -115,7 +115,7 @@ Before taking this class, students are expected to have watched the following pa
 * Q&A
 
 ### Class 10: Final Project Presentations
-**When**: February 17th 2026, 10:30–13:00 Room 52.105
+**When**: February 23th 2026, 10:30–13:00 Room 52.329
 
 **What**: 
 * Present final project
