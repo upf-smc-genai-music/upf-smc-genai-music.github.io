@@ -11,7 +11,7 @@ title: Logistics
 
 ### Tools and Programming Languages
 
-Part 1 of the course will use Python. All coding assignments should be coded in Python 3.10. The deep learning implementation will be done in TensorFlow/Keras or PyTorch. 
+Part 1 of the course will use Python. All coding assignments should be coded in Python 3.10. The deep learning implementation will be done in TensorFlow/Keras or PyTorch.
 
 ### Tasks
 #### Pre-class quizzes
@@ -29,7 +29,7 @@ The task will be to design and implement a symbolic generative music system. Thi
 The Final Project will be done in groups of three or four people – **the same who worked on the coding assignments together**.
 
 #### Deliverables
-The deliverable for the code assignments and Final Project is a repository with the implementation code in the course GitHub Classroom. 
+The deliverable for the code assignments and Final Project is a repository with the implementation code in the course GitHub Classroom.
 
 ### Deadlines
 The pre-class quizzes would be open as follows:
@@ -42,8 +42,8 @@ The pre-class quizzes would be open as follows:
 
 ### Evaluation
 Evaluation for the *Generative Algorithms for Sound and Music* course will be as follows:
-* Part 1 (Valerio): 50% of the overall score
-* Part 2 (Lonce): 50% of the overall score
+* Part 1 (Symbolic): 50% of the overall score
+* Part 2 (Audio): 50% of the overall score
 
 #### Part 1 Evaluation
 * Pre-class Quizzes: 10% of Part 1 score (two quizzes, each contributing equally).
@@ -65,6 +65,6 @@ Students can reserve time with Fernando and Andreas (TAs) through MTG Slack.
 
 ### Communication
 
-For general questions, please use the dedicated Slack channel on the MTG workspace: **#smc25-musicgen**. This channel will serve as a hub for asynchronous communication and updates for all students, so make sure to check it regularly. 
+For general questions, please use the dedicated Slack channel on the MTG workspace: **#smc25-musicgen**. This channel will serve as a hub for asynchronous communication and updates for all students, so make sure to check it regularly.
 
 For individual questions, doubts, or ideas, feel free to send a direct message to Valerio Velardo, Fernando, and Andreas  in the MTG Slack (@Valerio Velardo, @AndreasP, @Fernando).

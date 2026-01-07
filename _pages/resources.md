@@ -9,19 +9,19 @@ title: Resources
 
 ***
 
-## Learning Material (Part 1)
+## Learning Material for Part 1
 
 ### Required
 
 #### Generative Music AI Theory \+ Implementation
 
-* The Sound of AI’s *Generative Music AI Course*:  
-  * [Video lectures (theory \+ implementations)](https://www.youtube.com/watch?v=NpJWprrqlFw&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D)  
-  * [Code \+ slides](https://github.com/musikalkemist/generativemusicaicourse/tree/main)  
+* The Sound of AI’s *Generative Music AI Course*:
+  * [Video lectures (theory \+ implementations)](https://www.youtube.com/watch?v=NpJWprrqlFw&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D)
+  * [Code \+ slides](https://github.com/musikalkemist/generativemusicaicourse/tree/main)
 
 #### Generative Music AI Papers
 
-* [GenJam: A genetic algorithm for generating jazz solos](https://www.researchgate.net/publication/2342018_GenJam_A_Genetic_Algorithm_for_Generating_Jazz_Solos)  
+* [GenJam: A genetic algorithm for generating jazz solos](https://www.researchgate.net/publication/2342018_GenJam_A_Genetic_Algorithm_for_Generating_Jazz_Solos)
 * Music Transformer: Generating Music with Long-Term Structure [[blog](https://magenta.tensorflow.org/music-transformer)] [[paper](https://arxiv.org/pdf/1809.04281)]
 * Museformer: Transformer with Fine- and Coarse-Grained Attention for Music Generation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/092c2d45005ea2db40fc24c470663416-Paper-Conference.pdf)][[website](https://ai-muzic.github.io/museformer/)]
 * Anticipatory Music Transformer: A Controllable Infilling Model for Music [[blog](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html?idx=14)][[paper](https://arxiv.org/pdf/2306.08620)]
@@ -32,21 +32,21 @@ title: Resources
 
 #### Deep Learning
 
-* The Sound of AI’s *Deep Learning (for Audio) with Python*:  
-  * [Video lectures (theory \+ implementation)](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)  
+* The Sound of AI’s *Deep Learning (for Audio) with Python*:
+  * [Video lectures (theory \+ implementation)](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
   * [Code \+ slides](https://github.com/musikalkemist/DeepLearningForAudioWithPython/tree/master)
 
 #### Clean Code
 
-* The Sound of AI’s  *Uncle Bob’ SOLID Principles for Machine Learning Engineers Course:*  
-  * [Video lectures (theory \+ implementation)](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)  
-  * [Code \+ slides](https://github.com/musikalkemist/solidforml/tree/main/solidforml)  
+* The Sound of AI’s  *Uncle Bob’ SOLID Principles for Machine Learning Engineers Course:*
+  * [Video lectures (theory \+ implementation)](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)
+  * [Code \+ slides](https://github.com/musikalkemist/solidforml/tree/main/solidforml)
 * [Clean Code in Python \- Second Edition: Develop maintainable and efficient code](https://www.amazon.es/Clean-Code-Python-maintainable-efficient/dp/1800560214)
 
 
-## Learning Material (Part 2)
+## Learning Material for Part 2
 
-### Papers on Generative Audio 
+### Papers on Generative Audio
 
 * Van Den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (**2016**). **Wavenet**: A generative model for raw audio. *arXiv preprint arXiv:1609.03499*, *12*.
 
@@ -70,7 +70,7 @@ title: Resources
 
 * Garcia, H. F., Seetharaman, P., Kumar, R., & Pardo, B. (2023). Vampnet: Music generation via masked acoustic token modeling. *arXiv preprint arXiv:2307.04686*.
 ​		[keywords: transformer, in-painting, masking for training, codecs]
-  
+
 * Evans, Z., Parker, J. D., Carr, C. J., Zukowski, Z., Taylor, J., & Pons, J. (**2024**). **Stable audio open**. *arXiv preprint arXiv:2407.14358*.
 ​		[keywords: Text-2-audio; Open (data, weights, code, latent diffusion]
 

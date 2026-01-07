@@ -23,14 +23,14 @@ The first part of the *Generative Algorithms for Sound and Music* course focuses
 * Develop/deepen your ability to read and understand research papers in the field.
 * Understand not just how to use, but how to build or change networks to achieve your goals.
 
-### Pre-requisites 
+### Pre-requisites
 * Intermediate proficiency in Python programming
 * Basic understanding of linear algebra (matrices, vectors, and matrix operations) will be helpful for classes focusing on deep learning concepts
 * Basic knowledge of TensorFlow/Keras
-* **Before some of the classes, students should watch the assigned video lectures from The Sound of AI Generative Music AI course, covering both theory and implementation**. The specific videos for each class are listed in the [Lectures](/lectures/) page. 
+* **Before some of the classes, students should watch the assigned video lectures from The Sound of AI Generative Music AI course, covering both theory and implementation**. The specific videos for each class are listed in the [Lectures](/lectures/) page.
 
 ### Teaching Approach
-The course will cover both the theoretical and implementation aspects of symbolic generative music systems. 
+The course will cover both the theoretical and implementation aspects of symbolic generative music systems.
 
 The main teaching principles of the course are:
 * learning by doing,
