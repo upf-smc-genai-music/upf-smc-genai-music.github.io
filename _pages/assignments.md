@@ -233,6 +233,15 @@ The goal is simple: create an **awesome generative AI music experience** that pr
 
 Feel also free to use pre-trained Hugging Face models if you want.
 
+
+Looking for some inspiration? Here are some ideas from previous years:
+
+* **Liquiprism**: An implementation of the [Liquiprism Paper](https://www.icad.org/websiteV2.0/Conferences/ICAD2002/proceedings/36_AlanDorin.pdf)
+  * [Live DAW integration](https://www.youtube.com/shorts/J_Kz7gld5D4)
+  * [Web-based demo](https://liquiprism.vercel.app/)
+
+Feel free to explore similar approaches or develop your own unique concept!
+
 ### Deliverables
 Here’s what I need by the end of the sprint:
 
