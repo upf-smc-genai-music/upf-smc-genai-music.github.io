@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Generative Algorithms for Sound and Music
+title: Generative Algorithms for Sound and Music (2025-2026)
 description: UPF Music Technology Group | MSc Sound and Music Computing
 logo: MTG-logo.svg
 news: true
