@@ -101,7 +101,7 @@ Before taking this lecture, students are expected to have watched the following 
 
 ### Lecture 8: Code Assignments
 
-**When**: February 28th 2026, 14:00-16:00
+**When**: February 16th 2026, 14:00-16:00 Room 52.329
 
 **What**:
 * Present 2x code assignments
@@ -115,7 +115,7 @@ Before taking this lecture, students are expected to have watched the following 
 * Q&A
 
 ### Lecture 10: Final Project Presentations
-**When**: February 23th 2026, 10:30–13:00 Room 52.329
+**When**: February 17th 2026, 10:30–13:00 Room 52.105
 
 **What**:
 * Present final project
