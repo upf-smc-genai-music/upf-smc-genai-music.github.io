@@ -9,13 +9,13 @@ title: Assignments
 
 ***
 
-## Assignments Submission 
+## Assignments Submission
 
 To submit an assignment, add your implementation to the Github Classroom Repository for each assignment.
 
 The repository should include:
 
-* A `requirements.txt` file listing all Python dependencies, ensuring they can be easily installed.  
+* A `requirements.txt` file listing all Python dependencies, ensuring they can be easily installed.
 * **Python 3.10** code.
 
 ---
@@ -81,7 +81,7 @@ Keep it simple but meaningful.
 Adapt the GA from the previous implementation to this new task.
 
 You are free to:
-* Keep parts of the old fitness
+* Keep parts of the old fitness functions
 * Modify them
 * Remove them entirely
 
@@ -101,12 +101,10 @@ The system should be able to receive a chord progression with the characteristic
 The chord progression must remain fixed during evolution.
 
 ### Deliverables
-#### 1. Working Code & MIDI Output 
+#### 1. Working Code & MIDI Output
 * The code must run end-to-end
-* The system must generate:
-  * A melody
-  * Over the given chord progression
-* Export the result as a MIDI file
+* The system must generate a melody over the given chord progression
+* the result should be exported as a MIDI file
 * The MIDI should be readable in notation software (e.g. MuseScore)
 
 #### 2. Fitness Metric Documentation
@@ -121,7 +119,7 @@ For each fitness metric, include:
 Depending on the number of teams, you may be asked to present your work in class
 * 5-minute presentation (prepare slides)
   * What have you done?
-  * How? 
+  * How?
 * Be ready with a MIDI rendering, and a score of one of the outputs of your system. We’ll try to play the output in class with live musicians. If not, we’ll fall back to the MIDI.
 
 ### Deadlines
@@ -146,7 +144,7 @@ Good luck!
 
 Your CTO, Valerio
 
---- 
+---
 
 ## Assignment 2: Polyphonic Transformer for Bach Chorales
 
@@ -193,7 +191,7 @@ The focus is on understanding the modeling choices, not on re-implementing every
 Depending on the number of teams, you may be asked to present your work in class
 * 5-minute presentation (prepare slides)
   * What have you done?
-  * How? 
+  * How?
 * Be ready with a MIDI rendering, and a score of one of the outputs of your system. We’ll try to play the output in class with live musicians. If not, we’ll fall back to the MIDI.
 
 ### Reference Paper (Suggested)
@@ -260,6 +258,7 @@ If you’re feeling ambitious, consider adding user **interaction controls** to 
 
 * **Motion-based Interaction**: Movement influences note density.
 * **Environmental Interaction**: Room temperature correlates with harmony dissonance.
+* **User-interface**: A window with sliders & knobs, external MIDI controller support.
 
 This isn’t required, but experimenting with these ideas could make the system even more impressive. Remember, the sky’s the limit!
 

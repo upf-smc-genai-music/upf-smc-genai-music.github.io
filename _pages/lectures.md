@@ -13,24 +13,24 @@ title: Lectures
 
 ### Class 1: Course Introduction
 
-**When**: January 12th 2026, 14:00–17:00 Room 52.329
+**When**: January 12th 2026, 14:00–15:00 Room 52.329
 
 **What**: Introduction to the course, its structure, philosophy, and evaluation.
 
 Before taking this class, students are expected to have watched the following videos from The Sound of AI’s *Generative Music AI Course*:
 
-1. [What's Generative Music?](https://www.youtube.com/watch?v=9QNG56fc_l8&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=2)  
-2. [History of Generative Music](https://www.youtube.com/watch?v=3znKoIUrgDI&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=3)  
-3. [Use Cases](https://www.youtube.com/watch?v=Fg3TGfbEL64&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=4)  
-4. [Ethical Implications](https://www.youtube.com/watch?v=DCaE5776Rqg&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=5)  
-5. [Symbolic Vs Audio Generation](https://www.youtube.com/watch?v=VYxcHHJNTR0&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=6)  
-6. [Generative Techniques](https://www.youtube.com/watch?v=W-_eWSrQ_vU&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=7)  
+1. [What's Generative Music?](https://www.youtube.com/watch?v=9QNG56fc_l8&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=2)
+2. [History of Generative Music](https://www.youtube.com/watch?v=3znKoIUrgDI&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=3)
+3. [Use Cases](https://www.youtube.com/watch?v=Fg3TGfbEL64&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=4)
+4. [Ethical Implications](https://www.youtube.com/watch?v=DCaE5776Rqg&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=5)
+5. [Symbolic Vs Audio Generation](https://www.youtube.com/watch?v=VYxcHHJNTR0&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=6)
+6. [Generative Techniques](https://www.youtube.com/watch?v=W-_eWSrQ_vU&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=7)
 7. [Limitations and Future Vision](https://www.youtube.com/watch?v=viR9q61wV4Q&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=8)
 
-### Class 2: End-to-End Generative Music Project 
+### Class 2: End-to-End Generative Music Project
 **When**: January 12th 2026, 15:00–16:30 Room 52.329
 
-**What**: 
+**What**:
 * Steps to run a generative music project in a real-world setting
 * Types of symbolic music data
 * Real-world challenges, tips and tricks
@@ -38,7 +38,7 @@ Before taking this class, students are expected to have watched the following vi
 ### Class 3: Evaluation
 **When**: January 13th 2026, 10:30–11:30 Room 52.101
 
-**What**: 
+**What**:
 * Objective evaluation metrics
 * Subjective evaluation metrics
 * Expert-based evaluation metrics
@@ -48,7 +48,7 @@ Before taking this class, students are expected to have watched the following vi
 ### Class 4: Genetic Algorithms
 **When**: January 13th 2026, 11:30–13:00 Room 52.101
 
-**What**: 
+**What**:
 * Genetic algorithms for music generation
 * Real-world experience / challenges implementing this technique
 * GenJam
@@ -62,31 +62,31 @@ Before taking this class, students are expected to have watched the following vi
 
 **When**: January 26th 2026, 14:00–16:30 Room 52.329
 
-**What**: 
+**What**:
 
-* Transformers for music generation.  
-* Flipped class: Group interview activity 
+* Transformers for music generation.
+* Flipped class: Group interview activity
 * Real-world experience / challenges implementing this technique
 
 
 Before taking this class, students are expected to have watched the following videos and coded along the code walkthrough from The Sound of AI’s *Generative Music AI Course:*
 
-1. Transformers Explained Easily: Part 1 \[[video](https://www.youtube.com/watch?v=FtXT-AFzSvg&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=17)\] \[[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/17.%20Transformers%20-%20Part%201/Slides/17.%20Transformers%20-%20Part%201.pdf)\]  
-2. Transformers Explained Easily: Part 2 \[[video](https://www.youtube.com/watch?v=ctbvMnbylsA&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=18)\] \[[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/18.%20Transformers%20-%20Part%202/Slides/18.%20Transformers%20Part%202.pdf)\]  
+1. Transformers Explained Easily: Part 1 \[[video](https://www.youtube.com/watch?v=FtXT-AFzSvg&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=17)\] \[[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/17.%20Transformers%20-%20Part%201/Slides/17.%20Transformers%20-%20Part%201.pdf)\]
+2. Transformers Explained Easily: Part 2 \[[video](https://www.youtube.com/watch?v=ctbvMnbylsA&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=18)\] \[[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/18.%20Transformers%20-%20Part%202/Slides/18.%20Transformers%20Part%202.pdf)\]
 3. Melody Generation with Transformers \[[video](https://www.youtube.com/watch?v=j4LABY2d7k4&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=19)\] \[[code](https://github.com/musikalkemist/generativemusicaicourse/tree/main/19.%20Melody%20generation%20with%20transformers/Code)\]
 
 ### Class 6: Transformer Tokenizers
 **When**: January 27th 2026, 10:30–11:30 Room 54.004
 
-**What**: 
+**What**:
 * Tokenizers for MIDI / symbolic representations
-* MidTok
+* MidiTok
 
 
 ### Class 7:  Advanced Transformer Architectures
 **When**: January 27th 2026, 11:30–13:00 Room 54.004
 
-**What**: 
+**What**:
 * SOTA transformer systems for symbolic music generation
 * Discuss papers, and debate systems’ outputs
 * MuseFormer
@@ -99,25 +99,25 @@ Before taking this class, students are expected to have watched the following pa
 * MuPT: Symbolic Music Generative Pre-trained Transformer [[blog](https://map-mupt.github.io/)][[paper](https://arxiv.org/abs/2404.06393)]
 
 
-### Class 8: Code Assignments 
+### Class 8: Code Assignments
 
 **When**: February 28th 2026, 14:00-16:00
 
-**What**: 
+**What**:
 * Present 2x code assignments
 * Evaluate results together + get feedback
 
-### Class 9: Career Advice 
+### Class 9: Career Advice
 **When**: February 16th 2026, 16:00–16:30 Room 52.329
 
-**What**: 
-* How to get a career in gen music 
+**What**:
+* How to get a career in generative music
 * Q&A
 
 ### Class 10: Final Project Presentations
 **When**: February 23th 2026, 10:30–13:00 Room 52.329
 
-**What**: 
+**What**:
 * Present final project
 * Get feedback
 
@@ -126,9 +126,9 @@ This class is taught by Fernando and Andreas.
 
 **When**: January 29th 2026, 14:00–16:30 Room 52.329
 
-**What**: 
+**What**:
 * Inference + Fine Tuning with Hugging Face Transformers
-* Using pre-trained symbolic models  
+* Using pre-trained symbolic models
 
 Before taking this class, students are expected to have installed the following libraries and coded along the code walkthrough:
 * Hugging Face Transformers [[blog](https://huggingface.co/docs/transformers/en/quicktour)]
@@ -202,7 +202,7 @@ Slides[[CMC_2b_Representation&SoundModeling.pdf](https://drive.google.com/file/d
 
 2. Caillon, A., & Esling, P. (2021). RAVE: A variational autoencoder for fast and high-quality neural audio synthesis. *arXiv preprint arXiv:2111.05011*. [[Link](https://arxiv.org/pdf/2111.05011)]
 
-   (Optional) You might also be interested: 
+   (Optional) You might also be interested:
 
 3. Barahona-Ríos, A., & Collins, T. (2024). NoiseBandNet: controllable time-varying neural synthesis of sound effects using filterbanks. *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, *32*, 1573-1585.
 
@@ -216,7 +216,7 @@ Slides[[CMC3_DDSP.RAVE.pdf](https://drive.google.com/file/d/1X4hO8hkjzGpIjpPT0_J
 
 **What:**
 * Core transformer architecture, considerations for audio
-* Synthformer - detailed talk through of (my own) Synthformer for interactive audio generation. 
+* Synthformer - detailed talk through of (my own) Synthformer for interactive audio generation.
 
 Class preparation :
   1. Video: Peter Bloem, Lecture 12.1: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=KmAISyVvE1Y)]
@@ -229,7 +229,7 @@ Class preparation :
 
 The videos are a "review" of the fundamentals of Transformers - You've looked at Transformers before, I know, but they are here because you may not have all the details clear in your mind and they are excellent (Bloem for clear explanation, and 3 Brown one Blue for visualization).
 
-The paper is a classic. It is actually Text-2-Audio, but uses a token-based autoregressive Transformer network at its core, using language as conditioning. Pretty cool, and a good transition to more "proper" text to audio that we will look at next week. 
+The paper is a classic. It is actually Text-2-Audio, but uses a token-based autoregressive Transformer network at its core, using language as conditioning. Pretty cool, and a good transition to more "proper" text to audio that we will look at next week.
 
 Slides[[CMC4_TransformersForAudio.pdf](https://drive.google.com/file/d/17cRowER2LLAtzXGp_7MbYG7MfNshozUG/view?usp=drive_link)]
 
@@ -242,11 +242,11 @@ Github code for [[Synthformer](https://github.com/lonce/DACSynthformer)]
 **What:**
 
 * Overview of Diffusion and Transformer models for text-to-audio - CLAP
-* Objective and subjective approaches to evaluating generative audio  
+* Objective and subjective approaches to evaluating generative audio
 
 Class preparation :
 
-1. Valle, R., Badlani, R., Kong, Z., Lee, S. G., Goel, A., Santos, J. F., ... & Catanzaro, B. Fugatto 1: Foundational Generative Audio Transformer Opus 1. In *The Thirteenth International Conference on Learning Representations*. [[Link](https://fugatto.github.io/FUGATTO_ICLR_2025.pdf)]  
+1. Valle, R., Badlani, R., Kong, Z., Lee, S. G., Goel, A., Santos, J. F., ... & Catanzaro, B. Fugatto 1: Foundational Generative Audio Transformer Opus 1. In *The Thirteenth International Conference on Learning Representations*. [[Link](https://fugatto.github.io/FUGATTO_ICLR_2025.pdf)]
   (I consider this state-of-the-art. It is from NVidia, but no code is available.)
 
   Optional, but worth a look for understanding CLAP:
