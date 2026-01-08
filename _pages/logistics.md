@@ -36,8 +36,7 @@ The pre-class quizzes would be open as follows:
 * *Genetic Algorithms quiz*: January 12th noon - January 13th noon
 * *Transformer quiz*: January 25th noon - January 26th noon
 * The two **code assignments** are due by February 15th at midnight
-
-**The final project is due by February 16th at midnight**
+* The final project is due by February 16th at midnight
 
 
 ### Evaluation
