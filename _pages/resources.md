@@ -8,6 +8,9 @@ title: Resources
 {:toc}
 
 ***
+### Course Slides (2025-26)
+
+* [Lecture slides for this year](https://github.com/upf-smc-genai-music/genai-music-slides/tree/main/2025-26)
 
 ## Learning Material for Part 1
 
