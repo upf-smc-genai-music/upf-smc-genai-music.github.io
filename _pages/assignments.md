@@ -164,7 +164,7 @@ The focus is on understanding the modeling choices, not on re-implementing every
 ### Tasks
 
 #### 1. Data Handling
-* Use the [full Bach chorales dataset](https://www.kaggle.com/datasets/pranjalsriv/bach-chorales-2)
+* You may use this dataset for the bach chorales ([link](https://www.kaggle.com/datasets/pranjalsriv/bach-chorales-2)) or any other you find relevant
 * Choose an appropriate symbolic representation (e.g. piano-roll, event-based, token-based)
 * Clearly document your representation choice
 
