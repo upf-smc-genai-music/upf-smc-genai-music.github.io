@@ -90,13 +90,15 @@ Before taking this lecture, students are expected to have watched the following 
 * SOTA transformer systems for symbolic music generation
 * Discuss papers, and debate systems’ outputs
 * MuseFormer
-* Anticipatory Music Transformer
 * MuPT
 
-Before taking this lecture, students are expected to have watched the following papers:
+Before taking this lecture, students are expected to have read the following papers:
 * Museformer: Transformer with Fine- and Coarse-Grained Attention for Music Generation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/092c2d45005ea2db40fc24c470663416-Paper-Conference.pdf)][[website](https://ai-muzic.github.io/museformer/)]
-* Anticipatory Music Transformer: A Controllable Infilling Model for Music [[blog](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html?idx=14#prompted-example)][[paper](https://arxiv.org/pdf/2306.08620)]
 * MuPT: Symbolic Music Generative Pre-trained Transformer [[blog](https://map-mupt.github.io/)][[paper](https://arxiv.org/abs/2404.06393)]
+
+Optional reading:
+* Music Transformer (the first transformer for symbolic music generation) [[paper](https://arxiv.org/abs/1809.04281)][[blog + demos](https://magenta.withgoogle.com/music-transformer)]
+* Anticipatory Music Transformer: A Controllable Infilling Model for Music [[blog](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html?idx=14#prompted-example)][[paper](https://arxiv.org/pdf/2306.08620)]
 
 
 ### Lecture 8: Code Assignments
