@@ -186,6 +186,7 @@ Slides [[CMC_2a_Representation&SoundModeling.pdf](https://drive.google.com/file/
 ---
 
 
+
 ### Week 2: Representation & Codecs
 
 **When:** **Monday, February 23rd** 2026, 14:00–17:00 Room 52.329
@@ -196,6 +197,7 @@ Slides [[CMC_2a_Representation&SoundModeling.pdf](https://drive.google.com/file/
 * RNeNcodec intro
 
  Lecture preparation :
+
 
 
 ### Week 3: DDSP and Rave
@@ -231,7 +233,11 @@ Slides [[CMC_2a_Representation&SoundModeling.pdf](https://drive.google.com/file/
 
   
 
-#### A few good way-background papers on Generative Audio
+---
+
+
+
+### A few good way-background papers on Generative Audio
 
 - Van Den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., … & Kavukcuoglu, K. (**2016**). **Wavenet**: A generative model for raw audio. *arXiv preprint arXiv:1609.03499*, *12*.
 
@@ -245,9 +251,7 @@ Slides [[CMC_2a_Representation&SoundModeling.pdf](https://drive.google.com/file/
 
 - Caillon, A., & Esling, P. (**2021**). **RAVE**: A variational autoencoder for fast and high-quality neural audio synthesis. *arXiv preprint arXiv:2111.05011*. [keywords: conditional training]
 
-- Huzaifah, M., & Wyse, L. (2021). Deep generative models for musical audio synthesis. *Handbook of artificial intelligence for music: foundations, advanced approaches, and developments for creativity*, 639-678.
-
-   [keywords: “review” paper]
+- Huzaifah, M., & Wyse, L. (2021). Deep generative models for musical audio synthesis. *Handbook of artificial intelligence for music: foundations, advanced approaches, and developments for creativity*, 639-678. [keywords: “review” paper]
 
 - Wyse, L., Kamath, P., & Gupta, C. (2022, April). Sound model factory: An integrated system architecture for generative audio modelling. In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar)* (pp. 308-322). Cham: Springer International Publishing. [keywords: playability; latent space]
 
