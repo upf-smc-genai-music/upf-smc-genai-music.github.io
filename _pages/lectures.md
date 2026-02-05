@@ -106,6 +106,7 @@ Optional reading:
 **When**: February 16th 2026, 14:00-16:00 Room 52.329
 
 **What**:
+
 * Present 2x code assignments
 * Evaluate results together + get feedback
 
@@ -140,121 +141,118 @@ Before taking this lecture, students are expected to have installed the followin
 
 ---
 
-## Part 2 (WIP)
+
+
+## Part 2 (Audio)
 
 Slides [[CMC_0_Intro](https://drive.google.com/file/d/17SqQoT6LKyf9Xq2g41B6IZJDZdC51uW3/view?usp=drive_link)]
 
 ### Week 1: Audio modeling Introduction; Sound Model Factory
 
-**When:** TBD
+**When:** **Monday, February 9th** 2026, 14:00–17:00 Room 52.329
 
 **What:**
 
 * Introduction to the second part of the course on generative audio.
 * Discussion about the main ideas, audio representations, and architectures commonly used.
 * Sound Model Factory approach to creating playable audio models.
+* Audio representations 
 
 Lecture preparation :
 
 1. Engel, J., Agrawal, K. K., Chen, S., Gulrajani, I., Donahue, C., & Roberts, A. **(2019**). **Gansynth**: Adversarial neural audio synthesis. *arXiv preprint arXiv:1902.08710*.  [[Link]](https://arxiv.org/abs/1902.08710)
 2. Wyse, L., Kamath, P., & Gupta, C. (2022, April). Sound model factory: An integrated system architecture for generative audio modelling. In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar)* (pp. 308-322). Cham: Springer International Publishing. [[Link]](https://arxiv.org/abs/2206.13085)
+3. [OK - just a quick browse of this one]
+   1. Van Den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., … & Kavukcuoglu, K. (**2016**). **Wavenet**: A generative model for raw audio. *arXiv preprint arXiv:1609.03499*, *12*.
 
-Pre-lecture Quiz: [[Link](https://docs.google.com/forms/d/1pWXyrZHxwJLKTV1kinh95iuGIdNUfHAjEhOR6siIh8w/edit)]
 
-Slides [[CMC_1_DataDrivenSoundModeling.pdf](https://drive.google.com/file/d/1DN-uG18e1rTwwXn_lsPs653uHDzVj9wF/view?usp=drive_link)]
+
+* **Pre-lecture Quiz**: [[Link](https://docs.google.com/forms/d/e/1FAIpQLSeDo6B3ME-T7ciLZMyZW25bjRBqoiFGE588qVN5Qg0tAZ2jRw/viewform?usp=publish-editor)]
+
+  
+
+Slides [[CMC_1_DataDrivenSoundModeling.pdf](https://drive.google.com/file/d/1DN-uG18e1rTwwXn_lsPs653uHDzVj9wF/view?usp=drive_link)] (available 24 hrs before class)
+
+Slides [[CMC_2a_Representation&SoundModeling.pdf](https://drive.google.com/file/d/1KIJhF_lQSgqW_Rc8PHQk5xFx6IpfYOar/view?usp=drive_link)]  (available 24 hrs before class)
+
+
+
+
+---
+### ---   Week XX : Back to Symbolic --- 
+
+**When:** **February 16th, 17th - Symbolic Final Projects
+
+---
+
 
 ### Week 2: Representation & Codecs
 
-**When:** TBD
+**When:** **Monday, February 23rd** 2026, 14:00–17:00 Room 52.329
 
 **What:**
 
 * From Audio representations to Codecs
+* RNeNcodec intro
 
  Lecture preparation :
 
-1. Kumar, R., Seetharaman, P., Luebs, A., Kumar, I., & Kumar, K. (2024). High-fidelity audio compression with improved rvqgan. Advances in Neural Information Processing Systems, 36. [[Link](https://arxiv.org/pdf/2306.06546)] - The Descript Audio Codec (DAC) that we will look at more closely next week.
-
-2. Garcia, H. F., Seetharaman, P., Kumar, R., & Pardo, B. (2023). Vampnet: Music generation via masked acoustic token modeling. arXiv preprint arXiv:2307.04686. [[Link](https://arxiv.org/pdf/2307.04686)] - Uses the DAC in fun and interesting ways, helps to understand and motivate tokenization.
-
-Optional:
-3. Van Den Oord, A., & Vinyals, O. (2017). Neural discrete representation learning. Advances in neural information processing systems, 30. [[Link](https://arxiv.org/pdf/1711.00937)] - 5000 citations - historically important paper, a good image that Kumar et al should really have, and a section specifically on audio.
-
-Pre-lecture Quiz: [[Link](https://docs.google.com/forms/d/e/1FAIpQLSdW-szttfBxx4LCAZXWvKpK4EcFS-1ZK8o_9b6LoqekH6z2qA/viewform?usp=sharing)]
-
-***Play! Come in to lecture Wednesday with something to show/discuss in this Collab Notebook*** for exploring codec issues (using the Descript Audio Codec): [[playground](https://colab.research.google.com/drive/1aGzVYOu4vynEz8LY2Kf6wsl9j5OzaHON?usp=sharing)]
-
-You can also checkout the notebooks I was using in lecture: https://github.com/lonce/DACodecMorphing
-
-Slides [[CMC_2a_Representation&SoundModeling.pdf](https://drive.google.com/file/d/1KIJhF_lQSgqW_Rc8PHQk5xFx6IpfYOar/view?usp=drive_link)]
-
-Slides[[CMC_2b_Representation&SoundModeling.pdf](https://drive.google.com/file/d/1UeOZhJJkD37G7vHvgZtnaR0asI0UgU4s/view?usp=drive_link)]
 
 ### Week 3: DDSP and Rave
 
-**When:** TBD
+**When:** **Monday,  March 2nd** 2026, 14:00–17:00 Room 52.329
 
 **What:**
 
-* Fast learning, small datasets, real time inference, differentiation
+* DDSP, RAVE, BRAVE
 
  Lecture preparation :
 
-1. Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (2020). DDSP: Differentiable digital signal processing. *arXiv preprint arXiv:2001.04643*. [[Link](https://arxiv.org/pdf/2001.04643)]
 
-2. Caillon, A., & Esling, P. (2021). RAVE: A variational autoencoder for fast and high-quality neural audio synthesis. *arXiv preprint arXiv:2111.05011*. [[Link](https://arxiv.org/pdf/2111.05011)]
-
-   (Optional) You might also be interested:
-
-3. Barahona-Ríos, A., & Collins, T. (2024). NoiseBandNet: controllable time-varying neural synthesis of sound effects using filterbanks. *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, *32*, 1573-1585.
-
-***Play! Come in to lecture Wednesday with something to show/discuss in this Collab Notebook*** for DDSP style transfer learning using pretrained violin and/or bassoon model: [[playground](https://colab.research.google.com/drive/1KBuSYZ5LLtFIBf8z1kPWVCytSj4l_MbR?usp=sharing)1] & Collab notebook for DDSP + NoisBandNet implementation (by Blazej Kotowski )  [[playground2](https://colab.research.google.com/drive/1evwrmvxBzI30_5c-MU9tqK_bkR6S7d7u?usp=sharing)]
-
-Slides[[CMC3_DDSP.RAVE.pdf](https://drive.google.com/file/d/1X4hO8hkjzGpIjpPT0_JxgyhKZ7fcF_zR/view?usp=drive_link)]
 
 ### Week 4: Transformers for Audio
 
-**When:**: TBD
+**When:** **Monday,  March 9th** 2026, 14:00–17:00 Room 52.329
 
 **What:**
 * Core transformer architecture, considerations for audio
-* Synthformer - detailed talk through of (my own) Synthformer for interactive audio generation.
 
-Lecture preparation :
-  1. Video: Peter Bloem, Lecture 12.1: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=KmAISyVvE1Y)]
-
-  2. Video: Peter Bloem, Lecture 12.2: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=oUhGZMCTHtI)]
-
-  3. Video: Visualizing transformers and attention (60 minutes [no need to watch the Q&A]) [[Link](https://www.youtube.com/watch?v=KJtZARuO3JY)]
-
-  4. Copet, J., Kreuk, F., Gat, I., Remez, T., Kant, D., Synnaeve, G., ... & Défossez, A. (2023). Simple and controllable music generation. Advances in Neural Information Processing Systems, 36, 47704-47720. [[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] (This is the "MusicGen" paper from Meta)
-
-The videos are a "review" of the fundamentals of Transformers - You've looked at Transformers before, I know, but they are here because you may not have all the details clear in your mind and they are excellent (Bloem for clear explanation, and 3 Brown one Blue for visualization).
-
-The paper is a classic. It is actually Text-2-Audio, but uses a token-based autoregressive Transformer network at its core, using language as conditioning. Pretty cool, and a good transition to more "proper" text to audio that we will look at next week.
-
-Slides[[CMC4_TransformersForAudio.pdf](https://drive.google.com/file/d/17cRowER2LLAtzXGp_7MbYG7MfNshozUG/view?usp=drive_link)]
-
-Github code for [[Synthformer](https://github.com/lonce/DACSynthformer)]
+  
 
 ### Week 5: Text2Audio & Evaluation for generative models
 
-**When:** TBD
+**When:** **Monday,  March 16th** 2026, 14:00–17:00 Room 52.329
 
 **What:**
 
 * Overview of Diffusion and Transformer models for text-to-audio - CLAP
+
 * Objective and subjective approaches to evaluating generative audio
 
-Lecture preparation :
+  
 
-1. Valle, R., Badlani, R., Kong, Z., Lee, S. G., Goel, A., Santos, J. F., ... & Catanzaro, B. Fugatto 1: Foundational Generative Audio Transformer Opus 1. In *The Thirteenth International Conference on Learning Representations*. [[Link](https://fugatto.github.io/FUGATTO_ICLR_2025.pdf)]
-  (I consider this state-of-the-art. It is from NVidia, but no code is available.)
+#### A few good way-background papers on Generative Audio
 
-  Optional, but worth a look for understanding CLAP:
+- Van Den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., … & Kavukcuoglu, K. (**2016**). **Wavenet**: A generative model for raw audio. *arXiv preprint arXiv:1609.03499*, *12*.
 
-2. Wu, Y., Chen, K., Zhang, T., Hui, Y., Berg-Kirkpatrick, T., & Dubnov, S. (2023, June). Large-scale contrastive language-audio pretraining with feature fusion and keyword-to-caption augmentation. In *ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* (pp. 1-5). IEEE. [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10095969&casa_token=LBi8fLsAsxMAAAAA:_rfGpafcpGkjdEvLal7pb1-rgQTi1I3v5jBqV_Ye1_Sc5oNfD525INZ9MC61V_-z7aETK8wQZVY&tag=1)] (Optional, but worth a look for understanding CLAP)
+- Kumar, K., Kumar, R., De Boissiere, T., Gestin, L., Teoh, W. Z., Sotelo, J., … & Courville, A. C. (**2019**). **Melgan**: Generative adversarial networks for conditional waveform synthesis. *Advances in neural information processing systems*, *32*. [keywords: Vocoder; Phase construction]
 
-Last Lecture: 5 minute presentations of your audio transformer explorations.
+- Engel, J., Agrawal, K. K., Chen, S., Gulrajani, I., Donahue, C., & Roberts, A. **(2019**). **Gansynth**: Adversarial neural audio synthesis. *arXiv preprint arXiv:1902.08710*. [keywords: conditional training]
 
-Pre-lecture quiz [[Link](https://docs.google.com/forms/d/e/1FAIpQLSe_5tqjoRgn607SSzn_FRPbY6xXq-aT23aqpoAwD5EtoA39WQ/viewform?usp=dialog)]
+- Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (**2020**). **DDSP**: Differentiable digital signal processing. *arXiv preprint arXiv:2001.04643*.
+
+   [keywords: inductive bias, signal processing units, real time]
+
+- Caillon, A., & Esling, P. (**2021**). **RAVE**: A variational autoencoder for fast and high-quality neural audio synthesis. *arXiv preprint arXiv:2111.05011*. [keywords: conditional training]
+
+- Huzaifah, M., & Wyse, L. (2021). Deep generative models for musical audio synthesis. *Handbook of artificial intelligence for music: foundations, advanced approaches, and developments for creativity*, 639-678.
+
+   [keywords: “review” paper]
+
+- Wyse, L., Kamath, P., & Gupta, C. (2022, April). Sound model factory: An integrated system architecture for generative audio modelling. In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar)* (pp. 308-322). Cham: Springer International Publishing. [keywords: playability; latent space]
+
+- Garcia, H. F., Seetharaman, P., Kumar, R., & Pardo, B. (2023). Vampnet: Music generation via masked acoustic token modeling. *arXiv preprint arXiv:2307.04686*.
+
+   [keywords: transformer, in-painting, masking for training, codecs]
+
+- Evans, Z., Parker, J. D., Carr, C. J., Zukowski, Z., Taylor, J., & Pons, J. (**2024**). **Stable audio open**. *arXiv preprint arXiv:2407.14358*. [keywords: Text-2-audio; Open (data, weights, code, latent diffusion]

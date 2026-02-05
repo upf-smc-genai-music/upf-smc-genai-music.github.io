@@ -25,6 +25,8 @@ The first part of the *Generative Algorithms for Sound and Music* course focuses
 
 * Understand not just how to use, but how to build or change networks to achieve your goals.
 
+* Explore representations and algorithms for general audio and "subsymbolic" music
+
   
 
 ### Pre-requisites
