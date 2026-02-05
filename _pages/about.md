@@ -20,8 +20,12 @@ The first part of the *Generative Algorithms for Sound and Music* course focuses
 
 #### Part Two
 * Develop an understanding of the deep learning techniques used for generative audio.
+
 * Develop/deepen your ability to read and understand research papers in the field.
+
 * Understand not just how to use, but how to build or change networks to achieve your goals.
+
+  
 
 ### Pre-requisites
 * Intermediate proficiency in Python programming
