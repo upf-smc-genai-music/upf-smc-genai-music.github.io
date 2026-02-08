@@ -171,9 +171,9 @@ Lecture preparation :
 
   
 
-Slides [[CMC_1_DataDrivenSoundModeling.pdf](https://drive.google.com/file/d/1DN-uG18e1rTwwXn_lsPs653uHDzVj9wF/view?usp=drive_link)] (available 24 hrs before class)
+Slides [[CMC_1_DataDrivenSoundModeling.pptx](https://docs.google.com/presentation/d/1ATPaYaF3D42np1LL3QVHgDGBCc7xTuyV/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)] (download to access embedded audios)
 
-Slides [[CMC_2a_Representation&SoundModeling.pdf](https://drive.google.com/file/d/1KIJhF_lQSgqW_Rc8PHQk5xFx6IpfYOar/view?usp=drive_link)]  (available 24 hrs before class)
+Slides [[CMC_2a_Representation&SoundModeling.pptx](https://docs.google.com/presentation/d/1jrdsVHqHxQP2ACe9oFUsbgt3-zXg2a08/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)]  (download to access embedded audios)
 
 
 
