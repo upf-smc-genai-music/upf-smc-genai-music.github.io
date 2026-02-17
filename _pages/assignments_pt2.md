@@ -149,7 +149,7 @@ Sound textures can be recorded or generated using any appropriate technology. So
 
 * The assignment is due by **February 23rd** before class on GitHub Classroom (**you may work in pairs**)
 * Your dataset should be sharable for others in the class and for demoing.
-* Invitation to create github classroom repository: https://classroom.github.com/a/XX7s3JdO
+* Invitation to create github classroom repository for dataset assignment: (see Slack)
   
 
 ### Final Notes
