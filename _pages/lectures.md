@@ -194,11 +194,20 @@ Slides [[CMC_2a_Representation&SoundModeling.pptx](https://docs.google.com/prese
 **What:**
 
 * From Audio representations to Codecs
-* RNeNcodec intro
 
  Lecture preparation :
 
+1. Kumar, R., Seetharaman, P., Luebs, A., Kumar, I., & Kumar, K. (2024). High-fidelity audio compression with improved rvqgan. Advances in Neural Information Processing Systems, 36. [[Link](https://arxiv.org/pdf/2306.06546)] - The Descript Audio Codec (DAC) that we will look at more closely next week.
 
+2. Garcia, H. F., Seetharaman, P., Kumar, R., & Pardo, B. (2023). Vampnet: Music generation via masked acoustic token modeling. arXiv preprint arXiv:2307.04686. [[Link](https://arxiv.org/pdf/2307.04686)] - Uses the DAC in fun and interesting ways, helps to understand and motivate tokenization.
+
+Optional:
+
+3. Van Den Oord, A., & Vinyals, O. (2017). Neural discrete representation learning. Advances in neural information processing systems, 30. [[Link](https://arxiv.org/pdf/1711.00937)] - 5000 citations - historically important paper, a good image that Kumar et al should really have, and a section specifically on audio.
+
+Pre-lecture Quiz: [[Link](https://docs.google.com/forms/d/e/1FAIpQLScxSM5kHF7ZEAap9wCjylLc9iMsrM_daWTdYXDnIgHpFaJGaQ/viewform?usp=publish-editor)]
+
+Slides: [available before class time]
 
 ### Week 3: DDSP and Rave
 

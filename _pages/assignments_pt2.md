@@ -133,7 +133,7 @@ Sound textures can be recorded or generated using any appropriate technology. So
 
 ​	Machine sound at different speeds (preferably continuous over a range), pitched sounds (preferably continuous!), cards shuffling, spinning coins (with a parameter that goes from 0 to 1 over ), room hum, crowd "hubbub", boiling water. Chat can generate tons of "texture+parameter" ideas to help you! 
 
-​	Textures with a single varying parameter may be difficult to find, easier to make, maybe even easier to create synthetically. Maybe some of your projects form part I of the course can generate something we could consider a "texture"? 
+​	Textures with a single varying parameter may be difficult to find, easier to make, maybe even easier to create synthetically. Maybe some of your projects form part I of the course can generate something we could consider a "texture"?  You might also consider text-to-audio systems. 
 
 ​	***Watch out for "unwanted" variation that won't sound consistent during conditional generation!***
 
@@ -147,8 +147,9 @@ Sound textures can be recorded or generated using any appropriate technology. So
 
 ### Deadlines
 
-* The assignment is due by **February 23rd** before class on GitHub Classroom
+* The assignment is due by **February 23rd** before class on GitHub Classroom (**you may work in pairs**)
 * Your dataset should be sharable for others in the class and for demoing.
+* Invitation to create github classroom repository: https://classroom.github.com/a/jmwfwPiv
 
 ### Final Notes
 
