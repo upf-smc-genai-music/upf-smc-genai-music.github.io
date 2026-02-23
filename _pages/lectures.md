@@ -207,7 +207,7 @@ Optional:
 
 Pre-lecture Quiz: [[Link](https://docs.google.com/forms/d/e/1FAIpQLScxSM5kHF7ZEAap9wCjylLc9iMsrM_daWTdYXDnIgHpFaJGaQ/viewform?usp=publish-editor)]
 
-Slides: [available before class time]
+Slides: [[]CMC_2b_Representation&SouondModeling.pptx](https://docs.google.com/presentation/d/1FU7MIKYR8dlU1bNJgr0K5G8br0c41Icl/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)]
 
 ### Week 3: DDSP and Rave
 
