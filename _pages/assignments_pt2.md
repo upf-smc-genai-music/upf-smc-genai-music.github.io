@@ -126,7 +126,6 @@ dataset_folder/
 ```
 
 
-
 #### 3. Other considerations
 
 Sound textures can be recorded or generated using any appropriate technology. Some ideas:
@@ -155,3 +154,31 @@ Sound textures can be recorded or generated using any appropriate technology. So
 ### Final Notes
 
 ---
+## **Assignment 2**
+
+### **Assignment 2a: classNN (rnencodec) training**
+
+The dataset you created is ready for the next stage of preparation, then for training and inference. 
+
+#### 1. 3 steps
+* There are 3 notebooks in the RNeNcodec Quickstart section of the project. You just need to:
+#### 1.1 📝 dataprep.ipynb -  prep the data
+#### 1.2 📝 train.ipynb -  train (i suggest 75 "epochs") at first 
+#### 1.3 📝inference.ipynb -  inference (interactive)
+
+join the github classroom "classNN" for template and submission. Be prepared to share it in class!
+
+
+---
+### **Assignment 2b: Encodec exploration**
+
+The dataset you created is ready for the next stage of preparation, then for training and inference. 
+
+#### 1.1 📝Explore!
+* This project repository has the "starter" Encodec utilities for moving between audio, tokens, and latents. Please push your understanding of Encodec by visualizing and listening to manipulation is the latent space. We talked about things like making a histogram of latent component values, plotting latent vector components over time (looking for correlation with sound qualities), looking at the magnitude or clustering properties of the latents, morphing between two different sounds in the Encodec latent space, generating random latents, you could try time expansion or compression in the latents space, explore what happens when cut a latent representation of sound into segments, decode each piece separately, and splice the resulting audio together (as a function of segment size), whatever it is that you are curious about or that provides a bit of scientific/creative insight. 
+
+📁 join the github classroom "Encodec" for template and submission .Put your commented code in the notebook on the repository. Be prepared to share it in class!
+
+### Deadlines
+
+* The assignments are due by **March 2nd** before class on GitHub Classrooms. These are individual assignments. 
