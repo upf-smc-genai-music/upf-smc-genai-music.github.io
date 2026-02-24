@@ -209,7 +209,7 @@ Pre-lecture Quiz: [[Link](https://docs.google.com/forms/d/e/1FAIpQLScxSM5kHF7ZEA
 
 Slides: [[]CMC_2b_Representation&SouondModeling.pptx](https://docs.google.com/presentation/d/1FU7MIKYR8dlU1bNJgr0K5G8br0c41Icl/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)]
 
-### Week 3: DDSP and Rave
+### Week 3: Style, DDSP and Rave
 
 **When:** **Monday,  March 2nd** 2026, 14:00–17:00 Room 52.329
 
@@ -219,13 +219,23 @@ Slides: [[]CMC_2b_Representation&SouondModeling.pptx](https://docs.google.com/pr
 
  Lecture preparation :
 
+1. Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (2020). DDSP: Differentiable digital signal processing. *arXiv preprint arXiv:2001.04643*. [[Link](https://arxiv.org/pdf/2001.04643)]
 
+2. Caillon, A., & Esling, P. (2021). RAVE: A variational autoencoder for fast and high-quality neural audio synthesis. *arXiv preprint arXiv:2111.05011*. [[Link](https://arxiv.org/pdf/2111.05011)]
+3. (This is only two pages, and relevant to codec space exploration): Tokui, N., & Baker, T. (2025). Latent Granular Resynthesis using Neural Audio Codecs. *[arXiv preprint arXiv:2507.19202](https://arxiv.org/pdf/2507.19202)*.
+
+Pre-lecture Quiz [[Link](https://forms.gle/QJ3ecDszvCAPkBCH6)]
+
+**Come prepared to share your experience with Codec Exploration, and your training of rnencodec.**  (See assignments page)
+
+slides [available before class]
 
 ### Week 4: Transformers for Audio
 
 **When:** **Monday,  March 9th** 2026, 14:00–17:00 Room 52.329
 
 **What:**
+
 * Core transformer architecture, considerations for audio
 
   
