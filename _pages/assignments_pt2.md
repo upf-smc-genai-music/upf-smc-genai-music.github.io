@@ -182,3 +182,54 @@ The dataset you created is ready for the next stage of preparation, then for tra
 ### Deadlines
 
 * The assignments are due by **March 2nd** before class on GitHub Classrooms. These are individual assignments. 
+
+---
+## **Final Assignment : Generative Audio Research Paper**
+The project will involve investigation into some aspect of generative audio, largely of your choosing based on your background, scientific and musical interests, and the topics in this section of the class (below are a few suggestions). Feel free to run your ideas by me! 
+
+### **The deliverable** 
+should be in the form of a research paper, and should thus include:
+
+* an abstract 
+* background/review of related literature (2-4 papers of directed reading)
+* justification of why, how, and to whom the question is interesting (new, hard, enabling)
+* execution of your study (probe question with code, provide link and clear comments)
+* visual and links to sonic examples
+* The results of you exploration 
+* Conclusion (Reflection) and future directions
+
+The length should be roughly 1500 words (+ figures and references). ***The grade will be on clear and creative thinking, clarity of writing and presentation with visuals and audio, and generally your engagement with the issue.*** Be honest with your results. "Successful" results are not nearly as important as thinking, articulation, and learning.
+
+### A few possible suggestions
+Please choose a topic you find interesting and want to learn more about in connection with generative audio. That said, here are some ideas with a connection to the class, many based on RNeNcodec, some building on the previous assignments.  But again, you may do something the comes from a more personal interest.
+
+* Train RNeNcodec on a couple of different sound classes, comparing results.
+  * Run FAD (or similar) comparing the class separation of the datasets and the class separation of the generated sounds. Also could compare embeddings (CLAP vs VGGish)
+
+* Study the "codebook utilization" of different audio types (music vs general audio, speech mv music, etc)
+
+* Build a small (2-4 layer) transformer to train on a 15 minute (Encodec) data set.  
+  compare to RNeNcodec, explore stacked vs flattenned codebook sequence vs latent (like RNeNcodec)  
+  Explore different conditioning and/or positional encoding strategies  
+
+* Compare RAVE latents to Encodec latents
+
+* Implement Tokui style "style transfer" (maybe using two different codecs?). Add something new to it.
+
+* Explore the ability of RNeNcodec to capture longer time scales with rhythms
+
+* Extract fast-moving parameters from your audio (eg. engine sound) (spectral centroid) and use them for conditioning parameters. Generate new parameter contours for resynthesis
+
+* Explore streaming with other codecs (Encodec 48, DAC, ...)
+
+* Compare and analyze different training strategies in RNeNcodec (conditioning interpolation and extrapolation, drop out). 
+
+* Compare one-hot vs continuous conditioning for discrete parameter (semitones in pitch)
+
+* Capacity - Does the model need to be bigger to handle a bigger data set, more classes?
+
+* (Explore "timbre transfer"  with RNeNcodec)
+
+### Deadline
+
+* The assignments are due by midnight Friday **March 20**. These are individual assignments, though you should feel free to discuss with your classmates. 
