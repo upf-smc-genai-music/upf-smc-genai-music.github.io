@@ -16,7 +16,7 @@ title: Assignments_Pt2
 The data repository should include (where appropriate) :
 
 * A REAMDE.md describing the project.
-* A `requirements.txt` file listing all Python dependencies, if needed, ensuring they can be easily installed.
+* A `requirements.txt` file listing all Python dependencies, if needed, ensuring they can be easily installed. 
 * **Python 3.10** code (a notebook is fine) for demonstrating the project goals if appropriate. 
 
 ---
