@@ -228,7 +228,7 @@ Pre-lecture Quiz [[Link](https://forms.gle/QJ3ecDszvCAPkBCH6)]
 
 **Come prepared to share your experience with Codec Exploration, and your training of rnencodec.**  (See assignments page)
 
-slides [available before class]
+slides [[Link](https://docs.google.com/presentation/d/1bCOFaJ-q1jKe3BrDLBzy9UBj5oKgHHxZ/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)]
 
 ### Week 4: Transformers for Audio
 
