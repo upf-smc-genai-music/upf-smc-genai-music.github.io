@@ -234,10 +234,39 @@ slides [[Link](https://docs.google.com/presentation/d/1bCOFaJ-q1jKe3BrDLBzy9UBj5
 
 **When:** **Monday,  March 9th** 2026, 14:00–17:00 Room 52.329
 
-**What:**
+* **What:**
 
-* Core transformer architecture, considerations for audio
-
+  * Core transformer architecture, considerations for audio
+  * Synthformer - detailed talk through of (my own) Synthformer for interactive audio generation.
+  
+  Lecture preparation :
+  
+      1. Video: Peter Bloem, Lecture 12.1: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=KmAISyVvE1Y)]
+  
+      2. Video: Peter Bloem, Lecture 12.2: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=oUhGZMCTHtI)]
+  
+      3. Video: Visualizing transformers and attention (60 minutes [no need to watch the Q&A]) [[Link](https://www.youtube.com/watch?v=KJtZARuO3JY)]
+  
+      4. Copet, J., Kreuk, F., Gat, I., Remez, T., Kant, D., Synnaeve, G., ... & Défossez, A. (2023). Simple and controllable music generation. Advances in Neural Information Processing Systems, 36, 47704-47720. [[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] (This is the "MusicGen" paper from Meta)
+  
+  The videos are a "review" of the fundamentals of Transformers - You've looked at Transformers before, I know, but they are here because you may not have all the details clear in your mind and they are excellent (Bloem for clear explanation, and 3 Brown one Blue for visualization).
+  
+  The Copetpaper is a classic. It is actually Text-2-Audio, but uses a token-based autoregressive Transformer network at its core, using language as conditioning. Pretty cool, and a good transition to more "proper" text to audio that we will look at next week.
+  
+  
+  
+  And not required, but highly recommended for your personal enrichment
+  
+  ​	5. Borsos, Z., Marinier, R., Vincent, D., Kharitonov, E., Pietquin, O., Sharifi, M., ... & Zeghidour, N. (2023). Audiolm: a language modeling approach to audio generation. *IEEE/ACM transactions on audio, speech, and language processing*, *31*, 2523-2533. [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10158503&casa_token=RaS2JKDIXHoAAAAA:mzrips3dzpSve4vv2AkZivXCq-d55lEFIiIpqZe1dv-hDsNA_YFcs_V6Re0vqGWyUPfzkdboojg&tag=1)]
+  
+  
+  
+  Pre-lecture Quiz [[Link](https://docs.google.com/forms/d/e/1FAIpQLSdZDCj0HoAsb5LRi2lE3eBxKRGmZ5EHbLJVkj-mK1CuA0MfIw/viewform?usp=publish-editor)]
+  
+  Slides[before class]
+  
+  
+  
   
 
 ### Week 5: Text2Audio & Evaluation for generative models
