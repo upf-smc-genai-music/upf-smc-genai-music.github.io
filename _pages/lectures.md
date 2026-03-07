@@ -241,11 +241,11 @@ slides [[Link](https://docs.google.com/presentation/d/1bCOFaJ-q1jKe3BrDLBzy9UBj5
   Lecture preparation :
   
       1. Video: Peter Bloem, Lecture 12.1: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=KmAISyVvE1Y)]
-  
+      
       2. Video: Peter Bloem, Lecture 12.2: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=oUhGZMCTHtI)]
-  
+      
       3. Video: Visualizing transformers and attention (60 minutes [no need to watch the Q&A]) [[Link](https://www.youtube.com/watch?v=KJtZARuO3JY)]
-  
+      
       4. Copet, J., Kreuk, F., Gat, I., Remez, T., Kant, D., Synnaeve, G., ... & Défossez, A. (2023). Simple and controllable music generation. Advances in Neural Information Processing Systems, 36, 47704-47720. [[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] (This is the "MusicGen" paper from Meta)
   
   The videos are a "review" of the fundamentals of Transformers - You've looked at Transformers before, I know, but they are here because you may not have all the details clear in your mind and they are excellent (Bloem for clear explanation, and 3 Brown one Blue for visualization).
@@ -259,6 +259,10 @@ slides [[Link](https://docs.google.com/presentation/d/1bCOFaJ-q1jKe3BrDLBzy9UBj5
   
   
   Pre-lecture Quiz [[Link](https://docs.google.com/forms/d/e/1FAIpQLSdZDCj0HoAsb5LRi2lE3eBxKRGmZ5EHbLJVkj-mK1CuA0MfIw/viewform?usp=publish-editor)]
+  
+  **Come prepared to share your experience with  your training of rnencodec (and Encodec exploration if you would like).**  (See assignments page)
+  
+  
   
   Slides[before class]
   
