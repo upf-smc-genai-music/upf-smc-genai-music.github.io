@@ -264,8 +264,7 @@ slides [[Link](https://docs.google.com/presentation/d/1bCOFaJ-q1jKe3BrDLBzy9UBj5
   
   
   
-  Slides[before class]
-  
+  Slides[[set1_RAVE](https://docs.google.com/presentation/d/1_pEfzD0bJkgIw0ZbDBHnEOYp0y3Bbj9o/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)] [[set2_transformers](https://docs.google.com/presentation/d/1dMNUT2sOTbPH_p_wylWVpNJy_0VxLHbQ/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)]
   
   
   
