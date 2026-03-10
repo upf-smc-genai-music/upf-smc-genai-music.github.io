@@ -239,47 +239,56 @@ slides [[Link](https://docs.google.com/presentation/d/1bCOFaJ-q1jKe3BrDLBzy9UBj5
   * Core transformer architecture, considerations for audio
 
   Lecture preparation :
+
+  1. Video: Peter Bloem, Lecture 12.1: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=KmAISyVvE1Y)]
   
-      1. Video: Peter Bloem, Lecture 12.1: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=KmAISyVvE1Y)]
-      
-      2. Video: Peter Bloem, Lecture 12.2: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=oUhGZMCTHtI)]
-      
-      3. Video: Visualizing transformers and attention (60 minutes [no need to watch the Q&A]) [[Link](https://www.youtube.com/watch?v=KJtZARuO3JY)]
-      
-      4. Copet, J., Kreuk, F., Gat, I., Remez, T., Kant, D., Synnaeve, G., ... & Défossez, A. (2023). Simple and controllable music generation. Advances in Neural Information Processing Systems, 36, 47704-47720. [[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] (This is the "MusicGen" paper from Meta)
+  2. Video: Peter Bloem, Lecture 12.2: Transformers  (20 minutes) [[Link](https://www.youtube.com/watch?v=oUhGZMCTHtI)]
+
+  3. Video: Visualizing transformers and attention (60 minutes [no need to watch the Q&A]) [[Link](https://www.youtube.com/watch?v=KJtZARuO3JY)]
   
+  4. Copet, J., Kreuk, F., Gat, I., Remez, T., Kant, D., Synnaeve, G., ... & Défossez, A. (2023). Simple and controllable music generation. Advances in Neural Information Processing Systems, 36, 47704-47720. [[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] (This is the "MusicGen" paper from Meta)
+
   The videos are a "review" of the fundamentals of Transformers - You've looked at Transformers before, I know, but they are here because you may not have all the details clear in your mind and they are excellent (Bloem for clear explanation, and 3 Brown one Blue for visualization).
-  
-  The Copetpaper is a classic. It is actually Text-2-Audio, but uses a token-based autoregressive Transformer network at its core, using language as conditioning. Pretty cool, and a good transition to more "proper" text to audio that we will look at next week.
-  
-  
+
+  The Copet paper is a classic. It is actually Text-2-Audio, but uses a token-based autoregressive Transformer network at its core, using language as conditioning. Pretty cool, and a good transition to more "proper" text to audio that we will look at next week.
+
+
   And not required, but highly recommended for your personal enrichment:
   5. Borsos, Z., Marinier, R., Vincent, D., Kharitonov, E., Pietquin, O., Sharifi, M., ... & Zeghidour, N. (2023). Audiolm: a language modeling approach to audio generation. *IEEE/ACM transactions on audio, speech, and language processing*, *31*, 2523-2533. [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10158503&casa_token=RaS2JKDIXHoAAAAA:mzrips3dzpSve4vv2AkZivXCq-d55lEFIiIpqZe1dv-hDsNA_YFcs_V6Re0vqGWyUPfzkdboojg&tag=1)]
+
   
-  
-  
+
   Pre-lecture Quiz [[Link](https://docs.google.com/forms/d/e/1FAIpQLSdZDCj0HoAsb5LRi2lE3eBxKRGmZ5EHbLJVkj-mK1CuA0MfIw/viewform?usp=publish-editor)]
-  
+
   **Come prepared to share your experience with  your training of rnencodec (and Encodec exploration if you would like).**  (See assignments page)
+
   
-  
-  
+
   Slides[[set1_RAVE](https://docs.google.com/presentation/d/1_pEfzD0bJkgIw0ZbDBHnEOYp0y3Bbj9o/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)] [[set2_transformers](https://docs.google.com/presentation/d/1dMNUT2sOTbPH_p_wylWVpNJy_0VxLHbQ/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)]
+
   
-  
-  
+
 
 ### Week 5: Text2Audio & Evaluation for generative models
 
 **When:** **Monday,  March 16th** 2026, 14:00–17:00 Room 52.329
 
-**What:**
+* **What:**
 
-* Overview of Diffusion and Transformer models for text-to-audio - CLAP
+  * Overview of Diffusion and Transformer models for text-to-audio - CLAP
+  * Objective and subjective approaches to evaluating generative audio
 
-* Objective and subjective approaches to evaluating generative audio
+  Lecture preparation :
 
-  
+  1. Valle, R., Badlani, R., Kong, Z., Lee, S. G., Goel, A., Santos, J. F., ... & Catanzaro, B. Fugatto 1: Foundational Generative Audio Transformer Opus 1. In *The Thirteenth International Conference on Learning Representations*. [[Link](https://fugatto.github.io/FUGATTO_ICLR_2025.pdf)]
+     (I consider this state-of-the-art, though not an easy read. It is from NVidia, but no code is available.)
+
+    **Optional**, but *worth a look* for understanding of CLAP and TTA:
+
+  2. Wu, Y., Chen, K., Zhang, T., Hui, Y., Berg-Kirkpatrick, T., & Dubnov, S. (2023, June). Large-scale contrastive language-audio pretraining with feature fusion and keyword-to-caption augmentation. In *ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* (pp. 1-5). IEEE. [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10095969&casa_token=LBi8fLsAsxMAAAAA:_rfGpafcpGkjdEvLal7pb1-rgQTi1I3v5jBqV_Ye1_Sc5oNfD525INZ9MC61V_-z7aETK8wQZVY&tag=1)] (Optional, but worth a look for understanding CLAP)
+  3. Liu, H., Chen, Z., Yuan, Y., Mei, X., Liu, X., Mandic, D., ... & Plumbley, M. D. (2023). **Audioldm**: Text-to-audio generation with latent diffusion models. *arXiv preprint arXiv:2301.12503*.
+
+  Pre-lecture quiz [[Link](https://docs.google.com/forms/d/e/1FAIpQLSe_5tqjoRgn607SSzn_FRPbY6xXq-aT23aqpoAwD5EtoA39WQ/viewform?usp=dialog)] 
 
 ---
 
