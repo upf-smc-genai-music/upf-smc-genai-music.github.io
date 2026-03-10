@@ -282,11 +282,11 @@ slides [[Link](https://docs.google.com/presentation/d/1bCOFaJ-q1jKe3BrDLBzy9UBj5
 
   1. Valle, R., Badlani, R., Kong, Z., Lee, S. G., Goel, A., Santos, J. F., ... & Catanzaro, B. Fugatto 1: Foundational Generative Audio Transformer Opus 1. In *The Thirteenth International Conference on Learning Representations*. [[Link](https://fugatto.github.io/FUGATTO_ICLR_2025.pdf)]
      (I consider this state-of-the-art, though not an easy read. It is from NVidia, but no code is available.)
-
-    **Optional**, but *worth a look* for understanding of CLAP and TTA:
-
+  2. Liu, H., Chen, Z., Yuan, Y., Mei, X., Liu, X., Mandic, D., ... & Plumbley, M. D. (2023). Audioldm: Text-to-audio generation with latent diffusion models. *arXiv preprint arXiv:2301.12503*.
+  
+    **Optional**, but *worth a look* for understanding of CLAP:
+  
   2. Wu, Y., Chen, K., Zhang, T., Hui, Y., Berg-Kirkpatrick, T., & Dubnov, S. (2023, June). Large-scale contrastive language-audio pretraining with feature fusion and keyword-to-caption augmentation. In *ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* (pp. 1-5). IEEE. [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10095969&casa_token=LBi8fLsAsxMAAAAA:_rfGpafcpGkjdEvLal7pb1-rgQTi1I3v5jBqV_Ye1_Sc5oNfD525INZ9MC61V_-z7aETK8wQZVY&tag=1)] (Optional, but worth a look for understanding CLAP)
-  3. Liu, H., Chen, Z., Yuan, Y., Mei, X., Liu, X., Mandic, D., ... & Plumbley, M. D. (2023). **Audioldm**: Text-to-audio generation with latent diffusion models. *arXiv preprint arXiv:2301.12503*.
 
   Pre-lecture quiz [[Link](https://docs.google.com/forms/d/e/1FAIpQLSe_5tqjoRgn607SSzn_FRPbY6xXq-aT23aqpoAwD5EtoA39WQ/viewform?usp=dialog)] 
 
