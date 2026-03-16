@@ -289,6 +289,8 @@ slides [[Link](https://docs.google.com/presentation/d/1bCOFaJ-q1jKe3BrDLBzy9UBj5
   2. Wu, Y., Chen, K., Zhang, T., Hui, Y., Berg-Kirkpatrick, T., & Dubnov, S. (2023, June). Large-scale contrastive language-audio pretraining with feature fusion and keyword-to-caption augmentation. In *ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* (pp. 1-5). IEEE. [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10095969&casa_token=LBi8fLsAsxMAAAAA:_rfGpafcpGkjdEvLal7pb1-rgQTi1I3v5jBqV_Ye1_Sc5oNfD525INZ9MC61V_-z7aETK8wQZVY&tag=1)] (Optional, but worth a look for understanding CLAP)
 
   Pre-lecture quiz [[Link](https://docs.google.com/forms/d/e/1FAIpQLSe_5tqjoRgn607SSzn_FRPbY6xXq-aT23aqpoAwD5EtoA39WQ/viewform?usp=dialog)] 
+  
+  Slides[[Link_transformers](https://docs.google.com/presentation/d/1dMNUT2sOTbPH_p_wylWVpNJy_0VxLHbQ/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true), [Link_TTA](https://docs.google.com/presentation/d/1BF8yJQl9m9AzL_A0A9QCPMCj3kmK1bOq/edit?usp=sharing&ouid=113968304967495650516&rtpof=true&sd=true)]
 
 ---
 
